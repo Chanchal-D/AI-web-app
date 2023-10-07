@@ -1,0 +1,4 @@
+# Windows, macOS or Linux
+# Create the environment
+python -m venv venv
+
